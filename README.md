@@ -32,7 +32,9 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 ## 🚀 Live Demo
 
-**Coming Soon** - Deploying to Vercel/Netlify
+**[🌐 View Live Portfolio](https://ahmad-shaker.github.io/Ahmad-Portfolio/)**
+
+Your portfolio is live and ready to showcase your work!
 
 ## 🛠 Tech Stack
 
