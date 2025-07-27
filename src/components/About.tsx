@@ -11,42 +11,42 @@ const About: React.FC = () => {
 
   const timelineData = [
     {
-      year: '2024',
+      year: '2022 - 2027',
       title: 'Computer Science Engineering Student',
       description: 'Currently pursuing Computer Science Engineering at E-JUST, focusing on AI, embedded systems, and full-stack development.',
       icon: <GraduationCap className="w-6 h-6" />,
       color: 'neon-green'
     },
     {
-      year: '2024',
+      year: '2023 - Present',
       title: 'AI & ML Projects',
       description: 'Working on various AI projects, exploring computer vision and machine learning.',
       icon: <Brain className="w-6 h-6" />,
       color: 'neon-purple'
     },
     {
-      year: '2024',
+      year: '2024 - Present',
       title: 'Embedded Systems',
       description: 'Hands-on experience with ATmega328P and Arduino, building intelligent embedded solutions.',
       icon: <Cpu className="w-6 h-6" />,
       color: 'neon-blue'
     },
     {
-      year: '2024',
+      year: '2024- Present',
       title: 'Full-Stack Development',
       description: 'Building web applications with React, Flask, and modern web technologies.',
       icon: <Code className="w-6 h-6" />,
       color: 'neon-green'
     },
     {
-      year: '2024',
+      year: '2024 - Present',
       title: 'Project Portfolio',
       description: 'Netflix-checkers, classroom management system, medical AI assistant, SIMURA fashion brand, and data processing tools.',
       icon: <Award className="w-6 h-6" />,
       color: 'neon-purple'
     },
     {
-      year: '2025',
+      year: '2025 - Present',
       title: 'Co-founder & Tech Lead',
       description: 'Co-founder of SIMURA, a boundaryless fashion brand creating gender-inclusive clothing that celebrates individuality and breaks traditional fashion norms. Founded in 2025 with focus on inclusivity, quality, and creativity.',
       icon: <Award className="w-6 h-6" />,
