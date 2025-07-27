@@ -1,0 +1,66 @@
+{
+  "name": "ahmad-portfolio",
+  "version": "1.0.0",
+  "description": "Ahmad Shaker's - CSE Student at E-JUST",
+  "private": true,
+  "dependencies": {
+    "@react-three/drei": "^9.99.0",
+    "@react-three/fiber": "^8.15.19",
+    "@types/node": "^20.0.0",
+    "@use-gesture/react": "^10.3.1",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "framer-motion": "^12.23.9",
+    "gsap": "^3.13.0",
+    "lucide-react": "^0.292.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-intersection-observer": "^9.5.0",
+    "react-scripts": "5.0.1",
+    "react-spring": "^10.0.1",
+    "react-tsparticles": "^2.9.0",
+    "react-typewriter-effect": "^1.0.0",
+    "react-use-measure": "^2.1.7",
+    "three": "^0.178.0",
+    "tsparticles": "^2.9.0",
+    "typescript": "^4.9.0",
+    "web-vitals": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "server": "node server.js",
+    "dev": "concurrently \"npm run start\" \"npm run server\"",
+    "build:serve": "npm run build && npm run server"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "autoprefixer": "^10.4.16",
+    "concurrently": "^8.2.2",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  }
+}
