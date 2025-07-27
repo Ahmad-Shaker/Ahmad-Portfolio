@@ -2,6 +2,7 @@
   "name": "ahmad-portfolio",
   "version": "1.0.0",
   "description": "Ahmad Shaker's - CSE Student at E-JUST",
+  "homepage": "https://ahmad-shaker.github.io/Ahmad-Portfolio",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^9.99.0",
@@ -35,7 +36,9 @@
     "eject": "react-scripts eject",
     "server": "node server.js",
     "dev": "concurrently \"npm run start\" \"npm run server\"",
-    "build:serve": "npm run build && npm run server"
+    "build:serve": "npm run build && npm run server",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -60,6 +63,7 @@
     "@types/react-dom": "^19.1.6",
     "autoprefixer": "^10.4.16",
     "concurrently": "^8.2.2",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5"
   }
