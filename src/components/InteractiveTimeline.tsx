@@ -27,7 +27,7 @@ const timelineData: TimelineItem[] = [
   },
   {
     id: 2,
-    year: '2023 - Present',
+    year: '2022 - 2027',
     title: 'Computer Science Engineering',
     company: 'E-JUST University',
     location: 'Egypt-Japan University of Science and Technology',
