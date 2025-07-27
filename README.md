@@ -183,8 +183,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Ahmad Shaker** - Computer Science Engineering Student at E-JUST
 - **Location**: Egypt
-- **Focus**: AI, Embedded Systems, Full-Stack Development
-- **Co-founder**: SIMURA Fashion Brand
+- **Focus**: Full-Stack Development
+
 
 ## 🔗 Links
 
